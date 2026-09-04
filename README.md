@@ -64,9 +64,3 @@ For a larger end-to-end deep learning project, see:
 **[CIFAR-10 Dynamic Multi-Branch CNN](https://github.com/sarahnish/cifar10-dynamic-cnn)**
 
 This project builds on the deep learning concepts covered here and implements a custom dynamically weighted CNN architecture achieving **91.08% test accuracy on CIFAR-10**.
-
----
-
-## Portfolio
-
-[View my full project portfolio →](https://github.com/sarahnish/portfolio)
